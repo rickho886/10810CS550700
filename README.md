@@ -1,3 +1,7 @@
+Specs :
+* C++
+* OpenGL(FreeGLUT)
+
 # Assignment 1 -- Render Animated Robot
 
 [Report](https://github.com/rickho886/10810CS550700/blob/main/Assignment%201/107062361_AS1_Report.pdf)
@@ -52,12 +56,3 @@ https://user-images.githubusercontent.com/44393507/156194947-b548449a-7b4d-47cc-
 ## Sine wave distortion
 
 https://user-images.githubusercontent.com/44393507/156195000-4086e707-90f0-46c4-9a69-3cde536a9932.mp4
-
-\
-&nbsp;
-\
-&nbsp;
-
-# Assignment 3 -- Differential Rendering (not finished)
-
-[Report](https://github.com/rickho886/10810CS550700/blob/main/Assignment%203/107062361_AS3_Report.pdf)
